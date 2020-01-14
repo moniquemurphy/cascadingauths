@@ -1,0 +1,10 @@
+asgiref==3.2.3
+confusable-homoglyphs==3.2.0
+Django==3.0.2
+django-discover-runner==1.0
+django-registration==3.0.1
+django-role-permissions==2.2.1
+psycopg2==2.8.4
+pytz==2019.3
+six==1.13.0
+sqlparse==0.3.0
