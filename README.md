@@ -7,3 +7,6 @@ Let's say you need more than the standard User/Admin level of authorization in y
 2. Allow users to create users at their "tier" or lower
 3. Allow users to create users by email address with no password
 4. Who can then activate and initiate an immediate password reset (eliminating the need for the creating users to create or communicate temporary passwords)
+
+# Notes
+Django Registration is not updated to use Django 3.0 yet. An import on `six` fails. I opened an issue and modified the validators.py file in my virtualenv but hopefully we'll get a fix soon!
