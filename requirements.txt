@@ -1,6 +1,6 @@
 asgiref==3.2.3
 confusable-homoglyphs==3.2.0
-Django==3.0.2
+Django==3.0.12
 django-discover-runner==1.0
 django-registration==3.0.1
 django-role-permissions==2.2.1
